@@ -1,0 +1,33 @@
+Place this file in the root of your Next.js project (same level as package.json)
+
+COMPANY NAME: TechCorp Inc
+Website: www.techcorp.com
+Email: support@techcorp.com
+Phone: +1-800-TECHCORP
+
+ABOUT US:
+TechCorp is a leading provider of cloud-based solutions for businesses. Founded in 2018, we help companies scale their operations with cutting-edge technology.
+
+SERVICES:
+1. Cloud Hosting - Secure, scalable cloud infrastructure
+2. Database Management - Managed database solutions with 99.9% uptime
+3. Security Consulting - Expert security audits and implementations
+4. API Integration - Custom API development and integration services
+5. Technical Support - 24/7 dedicated support team
+
+PRICING PLANS:
+- Starter Plan: $49/month (up to 10 users, 100GB storage)
+- Professional Plan: $149/month (up to 50 users, 1TB storage, priority support)
+- Enterprise Plan: Custom pricing (unlimited users, unlimited storage, dedicated account manager)
+
+FEATURES BY PLAN:
+Starter: Basic features, email support (24-48h response)
+Professional: Advanced features, priority email & chat support (4h response), API access
+Enterprise: All features, 24/7 phone & dedicated support, SLA guarantee, custom integrations
+
+WORKING HOURS:
+Monday - Friday: 9:00 AM - 6:00 PM EST
+Saturday - Sunday: Closed (emergency support available for Enterprise customers)
+
+ONBOARDING:
+All new customers receive free onboarding session and training for their team.
