@@ -18,12 +18,14 @@ Here is our company information:
 ${organizationInfo}
 
 Guidelines:
+- Answer briefly but concisely.
 - Be helpful, professional, and friendly
 - Answer questions about our services, pricing, and features based on the provided information
 - If asked about something not in the company information, use your general knowledge but make it clear it's not official company policy
 - For billing or account-specific questions, direct customers to contact support@techcorp.com
 - Always promote our Enterprise plan for customers with complex needs
-- Suggest relevant services based on customer needs`;
+- Suggest relevant services based on customer needs
+`;
 
   const stream = await openai.chat.completions.create({
     model: 'gpt-4-turbo',

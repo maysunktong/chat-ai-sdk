@@ -1,10 +1,8 @@
-Place this file in the root of your Next.js project (same level as package.json)
-
 COMPANY NAME: Citadel Tech
 Website: www.citadeltech.com
 Email: support@citadel.com
 Phone: +1-111-11111
-Location in Sweden: Drottningaten 23, Stockholm, Sweden
+Location in Sweden: Drottninggatan 23, Stockholm, Sweden
 Location in Thailand: Sukhumvit 101, True Digital Park Building, Bangkok, Thailand
 
 ABOUT US:
