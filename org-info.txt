@@ -1,12 +1,14 @@
 Place this file in the root of your Next.js project (same level as package.json)
 
-COMPANY NAME: TechCorp Inc
-Website: www.techcorp.com
-Email: support@techcorp.com
-Phone: +1-800-TECHCORP
+COMPANY NAME: Citadel Tech
+Website: www.citadeltech.com
+Email: support@citadel.com
+Phone: +1-111-11111
+Location in Sweden: Drottningaten 23, Stockholm, Sweden
+Location in Thailand: Sukhumvit 101, True Digital Park Building, Bangkok, Thailand
 
 ABOUT US:
-TechCorp is a leading provider of cloud-based solutions for businesses. Founded in 2018, we help companies scale their operations with cutting-edge technology.
+TechCorp is a leading provider of cloud-based solutions for businesses. Founded in 2025, we help companies scale their operations with cutting-edge technology.
 
 SERVICES:
 1. Cloud Hosting - Secure, scalable cloud infrastructure

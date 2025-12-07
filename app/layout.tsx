@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'AI Chat App',
-  description: 'Chat with OpenAI using Next.js',
+  title: 'Citadel Tech',
+  description: 'Chat with us',
 };
 
 export default function RootLayout({

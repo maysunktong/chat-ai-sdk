@@ -6,7 +6,6 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-// Load organization info from text file
 const orgInfoPath = path.join(process.cwd(), 'org-info.txt');
 const organizationInfo = fs.readFileSync(orgInfoPath, 'utf-8');
 
